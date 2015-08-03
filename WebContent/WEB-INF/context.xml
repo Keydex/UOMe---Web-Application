@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+    <!-- Specify a JDBC datasource for oracle -->
+    <Resource name="jdbc/Database" 
+              auth="Container"
+              type="javax.sql.DataSource" 
+              username=""
+              password=""
+              driverClassName="org.apache.derby.jdbc.EmbeddedDriver"
+              url="jdbc:derby:c:\Users\Anthony Pham\workspacenew\Database"
+              maxActive="10" 
+              maxIdle="4" />
+</Context>

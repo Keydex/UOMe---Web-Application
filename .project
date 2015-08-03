@@ -33,4 +33,11 @@
 		<nature>org.eclipse.jdt.core.javanature</nature>
 		<nature>org.eclipse.wst.jsdt.core.jsNature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>WebContent/WEB-INF/lib/derby.jar</name>
+			<type>1</type>
+			<location>C:/Users/Anthony Pham/Desktop/eclipse/Libraries/derby.jar</location>
+		</link>
+	</linkedResources>
 </projectDescription>
